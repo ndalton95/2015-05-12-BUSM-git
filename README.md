@@ -1,5 +1,6 @@
 # A workshop at BU
 
+# This is person A's new change after pull request - kevin
 
 # This is person B's new change after pull request
 
