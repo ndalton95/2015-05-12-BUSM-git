@@ -1,6 +1,8 @@
 # A workshop at BU
 
 
+# This is person B's new change after pull request
+
 This workshop was a lot of fun ^_^
 
 #computational-project-cookie-cutter
